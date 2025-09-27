@@ -34,7 +34,12 @@ The feature selection techniques used are:
 <img width="765" height="341" alt="image" src="https://github.com/user-attachments/assets/34644957-21c4-439c-9f10-9cbec455efef" />
 <img width="1115" height="506" alt="image" src="https://github.com/user-attachments/assets/188ccd47-8e53-4aa6-a78f-281130df279e" />
 <img width="1107" height="484" alt="image" src="https://github.com/user-attachments/assets/61315c35-f9d2-4f6d-aa97-fc7ab51204b5" />
+<img width="1188" height="505" alt="image" src="https://github.com/user-attachments/assets/82e970bf-bb20-44b8-bb32-ec333db2e9d5" />
+<img width="901" height="1013" alt="image" src="https://github.com/user-attachments/assets/4103bee4-88b5-4006-8fb9-b80ddc69802e" />
+<img width="1093" height="534" alt="image" src="https://github.com/user-attachments/assets/65c6ce51-e4dc-4908-953e-fb71e3612eb0" />
+<img width="1132" height="477" alt="image" src="https://github.com/user-attachments/assets/ec9bc29c-cea7-4a44-960e-7bef54d872a5" />
+<img width="1182" height="294" alt="image" src="https://github.com/user-attachments/assets/57bad28c-78c4-4d7f-9e39-a4ee3c820b05" />
+<img width="942" height="962" alt="image" src="https://github.com/user-attachments/assets/6b8427d1-33ca-4dfc-b95f-58cd1ab561cc" />
 
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
 # RESULT:
        # INCLUDE YOUR RESULT HERE
