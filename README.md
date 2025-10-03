@@ -42,4 +42,4 @@ The feature selection techniques used are:
 <img width="942" height="962" alt="image" src="https://github.com/user-attachments/assets/6b8427d1-33ca-4dfc-b95f-58cd1ab561cc" />
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus the the given data is performed Feature Scaling and Feature Selection process and saved the data to a file successfully.
